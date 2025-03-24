@@ -67,7 +67,7 @@ To set up and run the Paytm Wallet Clone on your local machine, follow these ste
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/Paytm_Wallet_Project_Phase1.git
+   git clone https://github.com/saikumarlp/Paytm_Wallet_Project_Phase1
    ```
 
 2. **Navigate to the project directory:**
